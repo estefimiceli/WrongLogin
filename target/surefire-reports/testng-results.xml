@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-31T22:17:27 ART" name="myTests.TestWrongSignIn" finished-at="2020-07-31T22:17:39 ART" duration-ms="12214">
+    <groups>
+    </groups>
+    <test started-at="2020-07-31T22:17:27 ART" name="Command line test" finished-at="2020-07-31T22:17:39 ART" duration-ms="12214">
+      <class name="myTests.TestWrongSignIn">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myTests.TestWrongSignIn@86be70a]" started-at="2020-07-31T22:17:27 ART" name="setUp" finished-at="2020-07-31T22:17:35 ART" duration-ms="8453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signInWithWrongCredentials()[pri:0, instance:myTests.TestWrongSignIn@86be70a]" started-at="2020-07-31T22:17:35 ART" name="signInWithWrongCredentials" finished-at="2020-07-31T22:17:39 ART" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithWrongCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myTests.TestWrongSignIn@86be70a]" started-at="2020-07-31T22:17:39 ART" name="tearDown" finished-at="2020-07-31T22:17:39 ART" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- myTests.TestWrongSignIn -->
+    </test> <!-- Command line test -->
+  </suite> <!-- myTests.TestWrongSignIn -->
+</testng-results>
